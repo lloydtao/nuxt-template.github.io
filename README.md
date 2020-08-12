@@ -1,3 +1,5 @@
+![Nuxt on GitHub Pages](Nuxt-GitHub-Pages.png)
+
 # nuxt-template.github.io
 
 A GitHub Pages template to serve a Nuxt (Vue.js) application.
