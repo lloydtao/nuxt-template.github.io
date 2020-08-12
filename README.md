@@ -2,6 +2,8 @@
 
 A GitHub Pages template to serve a Nuxt (Vue.js) application.
 
+Demo: https://nuxt.lloyd.cx/
+
 ## Getting Started
 
 ### Usage
