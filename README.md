@@ -1,6 +1,6 @@
-# vue-template.github.io
+# nuxt-template.github.io
 
-A GitHub Pages template to serve a Vue application.
+A GitHub Pages template to serve a Nuxt (Vue.js) application.
 
 ## Getting Started
 
@@ -20,8 +20,8 @@ The branch can be selected at `Settings -> Options -> GitHub Pages -> Source`.
 
 This is real simple:
 
-- The `master` branch contains a Vue project.
-- The `build` branch will contain the compiled Vue application.
+- The `master` branch contains a Nuxt project.
+- The `build` branch will contain the compiled Nuxt application.
 - When you push to `master`, a GitHub Action compiles the updated project into `build`.
 
 ### Development
